@@ -50,8 +50,8 @@ with open("dados.json") as file:
     data_json = json.load(file)
 
 
-print("Valor do menor faturamento: " + menorFaturamento(data_json))
-print("Valor do maior faturamento: " + maiorFaturamento(data_json))
-print("Quantidade de dias com faturamento maior que a média: " + diasMaioresMedia(data_json))
+print("Valor do menor faturamento: ", menorFaturamento(data_json))
+print("Valor do maior faturamento: ", maiorFaturamento(data_json))
+print("Quantidade de dias com faturamento maior que a média: ", diasMaioresMedia(data_json))
 
 #print(valores)
