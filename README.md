@@ -5,7 +5,8 @@ Participante:
       Gabriel Rosa de Oliveira Silva: gabrielrosadeoliveirasilva42@gmail.com
 
 ### Descrição dos arquivos
-No repositório existe 5 arquivos, sendo cada um respectivo a sua questão indicada no nome.
+No repositório existe 6 arquivos, sendo cada um respectivo a sua questão indicada no nome.
+O arquivo _dados.json_ está relacionado apenas a Questão 3.
 
 4 das questões propostas foram desenvolvidas na linguagem C e uma na linguagem Python.
 
